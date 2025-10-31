@@ -1,0 +1,3 @@
+Line 1: Hello file 
+Line 2: Writing from c++
+Line 3: End of file.
